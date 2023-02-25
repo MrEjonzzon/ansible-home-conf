@@ -1,0 +1,4 @@
+debian]
+pve ansible_host=192.168.1.101
+omv ansible_host=192.168.1.110
+k8-master01 ansible_host=192.168.1.131
